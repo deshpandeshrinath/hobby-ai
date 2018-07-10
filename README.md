@@ -1,6 +1,3 @@
----
-title: "Hobby AI"
----
 ## Contents
 
 1. Prerequisites
